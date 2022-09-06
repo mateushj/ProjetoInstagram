@@ -1,2 +1,2 @@
 # Projeto Instagram
-Uma replica da pagina inicial do Instagram, trabalçhando com HTML, CSS
+Uma replica da pagina inicial do Instagram, trabalhando com HTML, CSS
