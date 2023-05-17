@@ -6,5 +6,5 @@ O projeto aborda o conceito de CSS Flexbox e Responsividade.
 
 O projeto foi desenvolvido a partir das tecnologias:
 
-*HTML5
-*CSS3
+* HTML5
+* CSS3
